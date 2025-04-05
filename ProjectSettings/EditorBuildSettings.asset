@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ARBodyTrackingTest.unity
+    guid: 03ed284b6e2ac934d814e60bfe7aa4e4
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: bb0cddb2bb77357468b0e98b26cf27d6, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: f99e0c6a1dfb2044eb7d3fc288db4958, type: 2}
